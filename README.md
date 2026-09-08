@@ -1,6 +1,6 @@
 # Lab_07_2026100000203_Mahdi-Hasan
-This repository was created on 8 September 2026 for CSE 1102 Section 9 in order to learn and practice GitHub, Markdown, version control, and GitHub Pages.
-# Lab 08: Introduction to Version Control
+This repository was created on 9 September 2026 for CSE 1102 Section 9 in order to learn and practice GitHub, Markdown, version control, and GitHub Pages.
+# Lab 07: Introduction to Version Control
 
 ## Description
 This repository was created on 8 September 2026 for CSE 1102 Section 9 in order to learn and practice GitHub, Markdown, version control, and GitHub Pages.
